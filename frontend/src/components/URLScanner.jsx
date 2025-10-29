@@ -239,8 +239,8 @@ const URLScanner = () => {
 
         {/* Footer */}
         <div className="text-center mt-12 text-gray-400 text-sm">
-          <p>Powered by Advanced Pattern Detection Engine v3.0</p>
-          <p className="mt-2">Detects SQL Injection, XSS, Command Injection, Path Traversal & More</p>
+          {/* <p>Powered by Advanced Pattern Detection Engine v3.0</p> */}
+          {/* <p className="mt-2">Detects SQL Injection, XSS, Command Injection, Path Traversal & More</p> */}
         </div>
       </div>
     </div>
